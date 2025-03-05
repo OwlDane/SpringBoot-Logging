@@ -1,0 +1,31 @@
+2025-03-05T17:24:02.644+07:00  WARN 26304 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Hello World 99983
+2025-03-05T17:24:02.650+07:00  WARN 26304 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Hello World 99984
+2025-03-05T17:24:02.650+07:00  WARN 26304 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Hello World 99985
+2025-03-05T17:24:02.650+07:00  WARN 26304 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Hello World 99986
+2025-03-05T17:24:02.650+07:00  WARN 26304 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Hello World 99987
+2025-03-05T17:24:02.650+07:00  WARN 26304 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Hello World 99988
+2025-03-05T17:24:02.650+07:00  WARN 26304 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Hello World 99989
+2025-03-05T17:24:02.650+07:00  WARN 26304 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Hello World 99990
+2025-03-05T17:24:02.650+07:00  WARN 26304 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Hello World 99991
+2025-03-05T17:24:02.650+07:00  WARN 26304 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Hello World 99992
+2025-03-05T17:24:02.650+07:00  WARN 26304 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Hello World 99993
+2025-03-05T17:24:02.650+07:00  WARN 26304 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Hello World 99994
+2025-03-05T17:24:02.650+07:00  WARN 26304 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Hello World 99995
+2025-03-05T17:24:02.650+07:00  WARN 26304 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Hello World 99996
+2025-03-05T17:24:02.650+07:00  WARN 26304 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Hello World 99997
+2025-03-05T17:24:02.650+07:00  WARN 26304 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Hello World 99998
+2025-03-05T17:24:02.650+07:00  WARN 26304 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Hello World 99999
+2025-03-05T17:24:02.735+07:00  WARN 26304 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Belajar Spring
+2025-03-05T17:24:02.736+07:00 ERROR 26304 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Belajar SpringBoot Logging
+2025-03-05T17:38:10.818+07:00  INFO 19444 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Starting LoggingTest using Java 23.0.2 with PID 19444 (started by HP in C:\Users\HP\Downloads\belajar-spring-logging)
+2025-03-05T17:38:10.820+07:00  INFO 19444 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : No active profile set, falling back to 1 default profile: "default"
+2025-03-05T17:38:11.294+07:00  INFO 19444 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Started LoggingTest in 0.792 seconds (process running for 2.875)
+2025-03-05T17:38:12.088+07:00  INFO 19444 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Belajar Java
+2025-03-05T17:38:12.089+07:00  WARN 19444 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Belajar Spring
+2025-03-05T17:38:12.089+07:00 ERROR 19444 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Belajar SpringBoot Logging
+2025-03-05T17:41:29.562+07:00  INFO 16448 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Starting LoggingTest using Java 23.0.2 with PID 16448 (started by HP in C:\Users\HP\Downloads\belajar-spring-logging)
+2025-03-05T17:41:29.564+07:00  INFO 16448 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : No active profile set, falling back to 1 default profile: "default"
+2025-03-05T17:41:30.024+07:00  INFO 16448 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Started LoggingTest in 0.778 seconds (process running for 1.714)
+2025-03-05T17:41:30.705+07:00  INFO 16448 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Belajar Java
+2025-03-05T17:41:30.706+07:00  WARN 16448 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Belajar Spring
+2025-03-05T17:41:30.706+07:00 ERROR 16448 --- [belajar-spring-logging] [main] SpringBoot_Logging.LoggingTest           : Belajar SpringBoot Logging
